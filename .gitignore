@@ -1,0 +1,74 @@
+
+*.idekeybindings
+
+*.plist
+
+*.JPG
+
+IB Support/Simulator Devices/CD4E8197-2BAB-421E-8CD2-111691BB0711/data/Media/PhotoData/Thumbnails/thumbnailConfiguration
+
+*.ithmb
+
+*.sqlite-wal
+
+*.sqlite-shm
+
+*.tiff
+
+*.sqlite
+
+*.sqlitedb
+
+IB Support/Simulator Devices/CD4E8197-2BAB-421E-8CD2-111691BB0711/data/Media/PhotoData/momentanalysis
+
+IB Support/Simulator Devices/CD4E8197-2BAB-421E-8CD2-111691BB0711/data/Media/PhotoData/protection
+
+IB Support/Simulator Devices/CD4E8197-2BAB-421E-8CD2-111691BB0711/data/Media/PhotoData/changes-shm
+
+IB Support/Simulator Devices/CD4E8197-2BAB-421E-8CD2-111691BB0711/data/Media/PhotoData/changes-wal
+
+IB Support/Simulator Devices/CD4E8197-2BAB-421E-8CD2-111691BB0711/data/Media/PhotoData/changes
+
+IB Support/Simulator Devices/39E3880A-D605-45B6-830F-2BB039FA0378/data/Library/.localized
+
+*.foldermetadata
+
+IB Support/Simulator Devices/39E3880A-D605-45B6-830F-2BB039FA0378/data/Media/PhotoData/Caches/ClientServerTransactions/A4D35F07-9862-46CB-AF5C-5BEA88A1A099
+
+IB Support/Simulator Devices/39E3880A-D605-45B6-830F-2BB039FA0378/data/Media/PhotoData/Caches/libraryavailable
+
+IB Support/Simulator Devices/39E3880A-D605-45B6-830F-2BB039FA0378/data/Media/PhotoData/changes
+
+IB Support/Simulator Devices/39E3880A-D605-45B6-830F-2BB039FA0378/data/Media/PhotoData/changes-shm
+
+IB Support/Simulator Devices/39E3880A-D605-45B6-830F-2BB039FA0378/data/Media/PhotoData/changes-wal
+
+IB Support/Simulator Devices/39E3880A-D605-45B6-830F-2BB039FA0378/data/Media/PhotoData/momentanalysis
+
+IB Support/Simulator Devices/39E3880A-D605-45B6-830F-2BB039FA0378/data/Media/PhotoData/protection
+
+IB Support/Simulator Devices/39E3880A-D605-45B6-830F-2BB039FA0378/data/Media/PhotoData/Thumbnails/thumbnailConfiguration
+
+IB Support/Simulator Devices/6B37962F-AAAA-478D-BF5C-92E6E1A75C70/data/Library/.localized
+
+IB Support/Simulator Devices/6B37962F-AAAA-478D-BF5C-92E6E1A75C70/data/Media/PhotoData/Caches/ClientServerTransactions/A4D35F07-9862-46CB-AF5C-5BEA88A1A099
+
+IB Support/Simulator Devices/CD4E8197-2BAB-421E-8CD2-111691BB0711/data/Media/PhotoData/Caches/libraryavailable
+
+IB Support/Simulator Devices/CD4E8197-2BAB-421E-8CD2-111691BB0711/data/Media/PhotoData/Caches/ClientServerTransactions/A4D35F07-9862-46CB-AF5C-5BEA88A1A099
+
+IB Support/Simulator Devices/CD4E8197-2BAB-421E-8CD2-111691BB0711/data/Library/.localized
+
+IB Support/Simulator Devices/6B37962F-AAAA-478D-BF5C-92E6E1A75C70/data/Media/PhotoData/Thumbnails/thumbnailConfiguration
+
+IB Support/Simulator Devices/6B37962F-AAAA-478D-BF5C-92E6E1A75C70/data/Media/PhotoData/protection
+
+IB Support/Simulator Devices/6B37962F-AAAA-478D-BF5C-92E6E1A75C70/data/Media/PhotoData/momentanalysis
+
+IB Support/Simulator Devices/6B37962F-AAAA-478D-BF5C-92E6E1A75C70/data/Media/PhotoData/changes-wal
+
+IB Support/Simulator Devices/6B37962F-AAAA-478D-BF5C-92E6E1A75C70/data/Media/PhotoData/changes-shm
+
+IB Support/Simulator Devices/6B37962F-AAAA-478D-BF5C-92E6E1A75C70/data/Media/PhotoData/changes
+
+IB Support/Simulator Devices/6B37962F-AAAA-478D-BF5C-92E6E1A75C70/data/Media/PhotoData/Caches/libraryavailable
